@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saujanya Tripathi</h1>
 <h3 align="center">A passionate fullstack developer and Data Science Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhu-07&label=Profile%20views&color=0e75b6&style=flat" alt="sadhu-07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadhu-07" alt="sadhu-07" /></a> </p>
-
 - 🔭 I’m currently working on **LLM Code Generator using Yi-coder-9b**
 
 - 🌱 I’m currently learning **React.js Flask TensorFlow Machine Learning with Python Full-Stack Web Development AI/LLM Development**
